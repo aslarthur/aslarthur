@@ -1,3 +1,5 @@
+<img src="./gatinho.gif" align="right" width="300" alt="Gatinho">
+
 # Sobre mim
 
 Olá! Meu nome é Arthur Santana, tenho 11 anos e sou estudante de programação.
