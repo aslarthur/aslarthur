@@ -1,4 +1,4 @@
-<img src="./gatinho.gif" align="right" width="300" alt="Gatinho">
+<img  style="border-radius: 15px" src="./gatinho.gif" align="right" width="300" alt="Gatinho">
 
 # Sobre mim
 
