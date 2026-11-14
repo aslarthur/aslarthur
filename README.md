@@ -4,7 +4,7 @@
 
 Olá! Meu nome é Arthur Santana, tenho 11 anos e sou estudante de programação.
 
-No momento, estou estudando HTML5 e CSS3. No futuro, quero estudar JavaScript e React.
+No momento, estou estudando HTML5, CSS3 e  JavaScript. No futuro, quero estudar React e Java.
 
 Gosto muito de criar sites e fazer vários projetos!
 
